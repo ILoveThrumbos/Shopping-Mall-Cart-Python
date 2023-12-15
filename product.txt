@@ -1,0 +1,5 @@
+123,Milk,2Litre,3.50
+234,Chocolate,500g,2.0
+456,Bread,500g,1.50
+789, Chicken, 2kg, 10.0
+111, Cherry Pie, 200g, 7.0

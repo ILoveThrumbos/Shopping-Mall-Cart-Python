@@ -4,6 +4,8 @@
 Python checkout/shopping system that records transactions.
 Includes a simple Python Unit Tests for Shopping Mall Cart. 
 
+Please refer to https://github.com/ILoveThrumbos/Shopping-Mall-Admin-Checkout.git if you wish to see the complete project (without testing).
+
 ## Project Overview
 
 The Java Bookstore implements a robust MVC structure:
